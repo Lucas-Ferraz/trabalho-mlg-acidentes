@@ -1,6 +1,7 @@
 # Análise Preditiva de Óbitos em Acidentes nas Rodovias Federais
 
-Este repositório contém os códigos, dados e documentação do trabalho final da disciplina **SME0823 - Modelos Lineares Generalizados**, ministrada pelo Prof. Vicente G. Cancho no Instituto de Ciências Matemáticas e de Computação (ICMC-USP).
+Este repositório contém os códigos, dados e documentação do trabalho final da disciplina **SME0823--Modelos de Regressão e Aprendizado Supervisionado II
+**.
 
 **Autor:** Lucas Ferraz Macris
 
@@ -14,7 +15,7 @@ O objetivo principal do estudo é investigar os fatores climáticos, viários e 
 ## 📁 Estrutura do Repositório
 
 ```text
-trabalho-mlg-acidentes/
+trabalho-sme0823/
 ├── data/           # Diretório para armazenamento dos dados brutos e processados da PRF
 ├── output/         # Tabelas exportadas, gráficos e saídas do modelo
 ├── scripts/        # Scripts em R/Python para limpeza, EDA e ajuste dos modelos
