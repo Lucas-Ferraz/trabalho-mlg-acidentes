@@ -17,7 +17,7 @@ O objetivo principal do estudo é investigar os fatores climáticos, viários e 
 trabalho-sme0823/
 ├── data/           # Diretório para armazenamento dos dados brutos e processados da PRF
 ├── output/         # Tabelas exportadas, gráficos e saídas do modelo
-├── scripts/        # Scripts em R/Python para limpeza, EDA e ajuste dos modelos
+├── scripts/        # Scripts em Python para limpeza, EDA e ajuste dos modelos
 ├── artigo.pdf      # Proposta e relatório final em PDF
 ├── README.md       # Documentação do projeto
 └── requirements.txt # Dependências e pacotes necessários
