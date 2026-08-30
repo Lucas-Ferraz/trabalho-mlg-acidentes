@@ -6,12 +6,12 @@ Este repositório contém os códigos, dados e documentação do trabalho final 
 
 ---
 
-## 📌 Descrição do Projeto
+## Descrição do Projeto
 O objetivo principal do estudo é investigar os fatores climáticos, viários e operacionais associados à ocorrência de óbitos em acidentes registrados nas rodovias federais brasileiras e avaliar a capacidade preditiva do modelo logístico em dados futuros, aplicando **Modelos Lineares Generalizados** aos dados abertos da Polícia Rodoviária Federal (PRF).
 
 ---
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```text
 trabalho-sme0823/
